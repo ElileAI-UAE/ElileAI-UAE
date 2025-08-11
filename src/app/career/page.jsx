@@ -48,7 +48,7 @@ const page = () => {
                 <h5>Senior Infrastructure Engineer </h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
-                    <FaLocationDot /> Remote
+                    <FaLocationDot /> Oman
                   </li>
                   <li>
                     <TbBriefcaseFilled /> 3+ years
@@ -71,7 +71,7 @@ const page = () => {
                 <h5>DevOps / Platform Engineer </h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
-                    <FaLocationDot /> Remote
+                    <FaLocationDot /> Oman
                   </li>
                   <li>
                     <TbBriefcaseFilled /> 3+ years
