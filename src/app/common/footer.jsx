@@ -28,7 +28,7 @@ const Footer = () => {
                       </li>
                       <li>
                         <Link
-                          href="https://www.youtube.com/@TheReal_ElileAI"
+                          href="https://www.youtube.com/@Elile-AISolutions"
                           target="_blank"
                         >
                           <i className="fa-brands fa-youtube"></i>
