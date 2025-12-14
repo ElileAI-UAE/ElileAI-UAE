@@ -60,9 +60,9 @@ const Footer = () => {
                       <li className="menu-item">
                         <Link href="/our-ceo">Meet Our CEO</Link>
                       </li>
-                      {/* <li className="menu-item">
+                      <li className="menu-item">
                         <Link href="/expertise">Our Expertise</Link>
-                      </li> */}
+                      </li>
                       <li className="menu-item">
                         <Link href="/contact">Contact</Link>
                       </li>
