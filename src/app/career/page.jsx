@@ -47,9 +47,9 @@ const page = () => {
               <div className="jobs-item">
                 <h5>Technical Lead – AI & Distributed Systems </h5>
                 <ul className="job-header-info list-unstyled">
-                  <li>
+                  {/* <li>
                     <FaLocationDot /> Oman
-                  </li>
+                  </li> */}
                   <li>
                     <TbBriefcaseFilled /> 3+ years
                   </li>
