@@ -45,6 +45,33 @@ const page = () => {
           <div className="row">
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
+                <h5>Technical Lead – AI & Distributed Systems </h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Oman
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 3+ years
+                  </li>
+                </ul>
+                <div>
+                  <p>
+                    Elile builds mission-critical AI systems for national security and energy operations. Our
+                    engineering challenges sit at the intersection of AI, distributed systems and data
+                    pipelines.We are looking for a hands-on Technical Lead who can lead by example the design and
+                    engineering execution, working closely with product and domain experts to ship
+                    systems that must be reliable, secure, and performant at scale.
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link className="default-btn" href="/technical-lead-ai ">
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
                 <h5>Senior Infrastructure Engineer </h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
