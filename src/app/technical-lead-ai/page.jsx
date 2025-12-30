@@ -141,9 +141,9 @@ const page = () => {
 
                             </div>
                             <div className="career-list">
-                                <h3>How to Apply</h3>
+                                {/* <h3>How to Apply</h3>
                                 <p>Submit your resume and a cover letter outlining your experience in Kubernetes, infrastructure, or platform engineering. Highlight any relevant projects, open-source contributions, or certifications.
-                                </p>
+                                </p> */}
                             </div>
                             <div className="job-footer mt-4">
                                 <Link

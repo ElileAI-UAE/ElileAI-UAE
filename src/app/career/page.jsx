@@ -82,9 +82,9 @@ const page = () => {
                   </li>
                 </ul>
                 <div>
-                  {/* <p>
+                  <p>
                     We are seeking an experienced Senior Infrastructure Engineer to lead the design, deployment, and maintenance of our on-premises Kubernetes-based data center infrastructure. This is a hands-on role encompassing physical hardware, virtualization, and cluster administration. You will ensure high availability, performance, and scalability while enabling secure and efficient workloads for both developers and operations.
-                  </p> */}
+                  </p>
                 </div>
                 <div className="job-footer">
                   <Link className="default-btn" href="/senior-infrastructure-engineer">
