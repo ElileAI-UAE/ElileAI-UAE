@@ -45,6 +45,61 @@ const page = () => {
           <div className="row">
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
+                <h5>Senior GrapheneOS Security Engineer </h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> On-site / Hybrid
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 3+ years
+                  </li>
+                </ul>
+                <div>
+                  <p>
+                    We are seeking a Senior GrapheneOS Security Engineer to architect, deploy, harden, and
+                    maintain sovereign, de-Googled Android security environments built entirely on GrapheneOS.
+                    This role focuses on creating a fully independent, Big Tech–decoupled mobile ecosystem for
+                    sensitive communications, on-device privacy, and operational security — suitable for executives,
+                    high-risk individuals, and organizations facing advanced threat models.The engineer will design a zero-trust, end-to-end secure mobile stack, ensuring the system
+                    operates without Google Play Services, cloud dependencies, or centralized telemetry
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link className="default-btn" href="/os-security-engineer">
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
+                <h5>iOS Security Engineer </h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Remote / On-site (UAE/EU/US)
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 5+ years
+                  </li>
+                </ul>
+                <div>
+                  <p>
+                    We are looking for an exceptional iOS Security Engineer with deep expertise in hardened iOS
+                    builds, secure OS customization, and advanced mobile threat defence. You will help
+                    design, build, and maintain a military-grade iOS security stack, ensuring device integrity,
+                    resilience, and resistance against adversarial threats in high-risk environments.This is a highly technical role requiring strong OS-level understanding, reverse engineering
+                    skills, and hands-on experience in securing iOS beyond standard enterprise MDM controls.
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link className="default-btn" href="/ios-security-engineer">
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
                 <h5>Technical Lead – AI & Distributed Systems </h5>
                 <ul className="job-header-info list-unstyled">
                   {/* <li>
