@@ -45,6 +45,36 @@ const page = () => {
           <div className="row">
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
+                <h5>Dark Web Researcher / Threat Intelligence Analyst </h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Remote / Hybrid
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 3+ years
+                  </li>
+                </ul>
+                <div>
+                  <p>
+                    We are seeking a Dark Web Researcher with deep experience in underground ecosystems,
+                    threat intelligence collection, and adversarial research. This role focuses on monitoring,
+                    investigating, and analyzing illicit online activity across dark web forums, marketplaces,
+                    encrypted platforms, and breach ecosystems.You will operate at the intersection of cyber threat intelligence, OSINT, and investigative
+                    research, producing insights that support security operations, risk assessment, and strategic
+                    decision-making.
+                    This is a hands-on role for someone comfortable working in hostile, deceptive, and
+                    fast-evolving digital environments.
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link className="default-btn" href="/dark-web-researcher">
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
                 <h5>Senior GrapheneOS Security Engineer </h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
