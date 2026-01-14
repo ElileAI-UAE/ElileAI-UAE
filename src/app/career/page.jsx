@@ -45,6 +45,69 @@ const page = () => {
           <div className="row">
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
+                <h5>Senior Intelligence Data Lead – OSINT, Social & External
+                  Intelligence </h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Hybrid or Remote
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 6+ years
+                  </li>
+                </ul>
+                <div>
+                  <p>
+                    We are seeking a senior leader to own and evolve Elile’s external intelligence and
+                    data acquisition capabilities, spanning open-source intelligence (OSINT), social
+                    platforms, dark web sources, Ad-ID, cookies and other publicly or commercially
+                    available data environments.
+                    This role sits at the intersection of intelligence collection, data structuring,
+                    investigative workflows, and platform execution. It is intentionally designed for
+                    candidates with either a strong engineering background, a product leadership
+                    background, or a hybrid intelligence profile who have built such platforms for
+                    digital intelligence in their career.
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link className="default-btn" href="/senior-intelligence-data-lead">
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
+                <h5>Senior Intelligence Analysis & Decision Systems Lead </h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Hybrid or Remote
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 8+ years
+                  </li>
+                </ul>
+                <div>
+                  <p>
+                    We are seeking a senior leader to own how externally gathered intelligence data is
+                    analyzed, interpreted, prioritized, and transformed into operational decisions.
+                    This role sits downstream of intelligence data acquisition and focuses on analysis,
+                    reasoning, decision support, and analyst-facing outcomes. It is designed for
+                    candidates with a strong background in analytics, intelligence analysis,
+                    engineering, or product leadership, who have worked on OSINT, SIGINT, and OPSINT
+                    systems where decisions must be explainable, defensible, and trusted.
+                    The role operates at the intersection of threat intelligence, advanced analytics,
+                    AI-assisted workflows, and human judgment.
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link className="default-btn" href="/senior-intelligence-analysis">
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
                 <h5>Dark Web Researcher / Threat Intelligence Analyst </h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
