@@ -2268,6 +2268,11 @@ footer .widget-title {
   margin: 0;
   font-size: 15px;
   color: #7F879E;
+  display: -webkit-box;
+  -webkit-line-clamp: 8;
+  /* 8 lines ke baad cut */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .jobs-item p button {

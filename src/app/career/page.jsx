@@ -55,7 +55,7 @@ const page = () => {
                     <TbBriefcaseFilled /> 6+ years
                   </li>
                 </ul>
-                <div>
+                <div className="jobsDesc">
                   <p>
                     We are seeking a senior leader to own and evolve Elile’s external intelligence and
                     data acquisition capabilities, spanning open-source intelligence (OSINT), social
@@ -86,7 +86,7 @@ const page = () => {
                     <TbBriefcaseFilled /> 8+ years
                   </li>
                 </ul>
-                <div>
+                <div className="jobsDesc">
                   <p>
                     We are seeking a senior leader to own how externally gathered intelligence data is
                     analyzed, interpreted, prioritized, and transformed into operational decisions.
@@ -108,7 +108,7 @@ const page = () => {
             </div>
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
-                <h5>Dark Web Researcher / Threat Intelligence Analyst </h5>
+                <h5>Dark Web Researcher / Threat Intel Analyst </h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
                     <FaLocationDot /> Remote / Hybrid
@@ -117,7 +117,7 @@ const page = () => {
                     <TbBriefcaseFilled /> 3+ years
                   </li>
                 </ul>
-                <div>
+                <div className="jobsDesc">
                   <p>
                     We are seeking a Dark Web Researcher with deep experience in underground ecosystems,
                     threat intelligence collection, and adversarial research. This role focuses on monitoring,
@@ -265,7 +265,7 @@ const page = () => {
             </div>
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
-                <h5>AI Engineer - Next Generation AI-native Applications</h5>
+                <h5>AI Engineer - Next Gen AI-native Applications</h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
                     <FaLocationDot /> Remote

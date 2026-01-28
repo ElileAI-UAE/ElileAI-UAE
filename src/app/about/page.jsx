@@ -403,7 +403,7 @@ const page = () => {
                 </div>
               </div>
             </div>
-            <div className="col-xl-4 col-md-6 mb-4">
+            {/* <div className="col-xl-4 col-md-6 mb-4">
               <div className="team-style-one">
                 <div className="thumb">
                   <img
@@ -437,7 +437,7 @@ const page = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div className="col-xl-4 col-md-6 mb-4">
               <div className="team-style-one">
                 <div className="thumb">
