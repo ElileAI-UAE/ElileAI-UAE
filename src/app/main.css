@@ -2269,7 +2269,7 @@ footer .widget-title {
   font-size: 15px;
   color: #7F879E;
   display: -webkit-box;
-  -webkit-line-clamp: 8;
+  -webkit-line-clamp: 6;
   /* 8 lines ke baad cut */
   -webkit-box-orient: vertical;
   overflow: hidden;
