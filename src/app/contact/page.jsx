@@ -150,9 +150,10 @@ const page = () => {
                           >
                             <div className="accordion-body p-3">
                               <p>
-                                ELILE SOFTWARE TECHNOLOGIES - L.L.C - S.P.C, Al
+                                6, Ash'ab St., Al Nahyan, Abu Dhabi 22229
+                                {/* ELILE SOFTWARE TECHNOLOGIES - L.L.C - S.P.C, Al
                                 Hisn W7_01, First Abu Dhabi Bank Building, Abu
-                                Dhabi Municipality, Abu Dhabi
+                                Dhabi Municipality, Abu Dhabi */}
                               </p>
                             </div>
                           </div>
