@@ -45,8 +45,44 @@ const page = () => {
           <div className="row">
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
-                <h5>Senior Intelligence Data Lead – OSINT, Social & External
-                  Intelligence </h5>
+                <h5>Senior AI Deployment Engineer</h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Hybrid or Remote
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 5–8+ years (Senior/Lead level)
+                  </li>
+                </ul>
+                <div className="jobsDesc">
+                  <p>
+                    We are seeking a Senior AI Deployment Engineer to lead the
+                    architecture and delivery of AI-native applications in
+                    complex, high-security environments. This is a "Master
+                    Builder" role that bridges the gap between state-of-the-art
+                    LLM development and hardened, on-premises hardware
+                    infrastructure. You will be the primary technical authority
+                    for deploying mission-critical AI agents and RAG pipelines
+                    within sovereign data infrastructures and air-gapped
+                    environments.
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link
+                    className="default-btn"
+                    href="/senior-ai-deployment-engineer"
+                  >
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
+                <h5>
+                  Senior Intelligence Data Lead – OSINT, Social & External
+                  Intelligence{" "}
+                </h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
                     <FaLocationDot /> Hybrid or Remote
@@ -57,19 +93,24 @@ const page = () => {
                 </ul>
                 <div className="jobsDesc">
                   <p>
-                    We are seeking a senior leader to own and evolve Elile’s external intelligence and
-                    data acquisition capabilities, spanning open-source intelligence (OSINT), social
-                    platforms, dark web sources, Ad-ID, cookies and other publicly or commercially
-                    available data environments.
-                    This role sits at the intersection of intelligence collection, data structuring,
-                    investigative workflows, and platform execution. It is intentionally designed for
-                    candidates with either a strong engineering background, a product leadership
-                    background, or a hybrid intelligence profile who have built such platforms for
-                    digital intelligence in their career.
+                    We are seeking a senior leader to own and evolve Elile’s
+                    external intelligence and data acquisition capabilities,
+                    spanning open-source intelligence (OSINT), social platforms,
+                    dark web sources, Ad-ID, cookies and other publicly or
+                    commercially available data environments. This role sits at
+                    the intersection of intelligence collection, data
+                    structuring, investigative workflows, and platform
+                    execution. It is intentionally designed for candidates with
+                    either a strong engineering background, a product leadership
+                    background, or a hybrid intelligence profile who have built
+                    such platforms for digital intelligence in their career.
                   </p>
                 </div>
                 <div className="job-footer">
-                  <Link className="default-btn" href="/senior-intelligence-data-lead">
+                  <Link
+                    className="default-btn"
+                    href="/senior-intelligence-data-lead"
+                  >
                     Read More
                   </Link>
                 </div>
@@ -88,19 +129,25 @@ const page = () => {
                 </ul>
                 <div className="jobsDesc">
                   <p>
-                    We are seeking a senior leader to own how externally gathered intelligence data is
-                    analyzed, interpreted, prioritized, and transformed into operational decisions.
-                    This role sits downstream of intelligence data acquisition and focuses on analysis,
-                    reasoning, decision support, and analyst-facing outcomes. It is designed for
-                    candidates with a strong background in analytics, intelligence analysis,
-                    engineering, or product leadership, who have worked on OSINT, SIGINT, and OPSINT
-                    systems where decisions must be explainable, defensible, and trusted.
-                    The role operates at the intersection of threat intelligence, advanced analytics,
+                    We are seeking a senior leader to own how externally
+                    gathered intelligence data is analyzed, interpreted,
+                    prioritized, and transformed into operational decisions.
+                    This role sits downstream of intelligence data acquisition
+                    and focuses on analysis, reasoning, decision support, and
+                    analyst-facing outcomes. It is designed for candidates with
+                    a strong background in analytics, intelligence analysis,
+                    engineering, or product leadership, who have worked on
+                    OSINT, SIGINT, and OPSINT systems where decisions must be
+                    explainable, defensible, and trusted. The role operates at
+                    the intersection of threat intelligence, advanced analytics,
                     AI-assisted workflows, and human judgment.
                   </p>
                 </div>
                 <div className="job-footer">
-                  <Link className="default-btn" href="/senior-intelligence-analysis">
+                  <Link
+                    className="default-btn"
+                    href="/senior-intelligence-analysis"
+                  >
                     Read More
                   </Link>
                 </div>
@@ -119,14 +166,17 @@ const page = () => {
                 </ul>
                 <div className="jobsDesc">
                   <p>
-                    We are seeking a Dark Web Researcher with deep experience in underground ecosystems,
-                    threat intelligence collection, and adversarial research. This role focuses on monitoring,
-                    investigating, and analyzing illicit online activity across dark web forums, marketplaces,
-                    encrypted platforms, and breach ecosystems.You will operate at the intersection of cyber threat intelligence, OSINT, and investigative
-                    research, producing insights that support security operations, risk assessment, and strategic
-                    decision-making.
-                    This is a hands-on role for someone comfortable working in hostile, deceptive, and
-                    fast-evolving digital environments.
+                    We are seeking a Dark Web Researcher with deep experience in
+                    underground ecosystems, threat intelligence collection, and
+                    adversarial research. This role focuses on monitoring,
+                    investigating, and analyzing illicit online activity across
+                    dark web forums, marketplaces, encrypted platforms, and
+                    breach ecosystems.You will operate at the intersection of
+                    cyber threat intelligence, OSINT, and investigative
+                    research, producing insights that support security
+                    operations, risk assessment, and strategic decision-making.
+                    This is a hands-on role for someone comfortable working in
+                    hostile, deceptive, and fast-evolving digital environments.
                   </p>
                 </div>
                 <div className="job-footer">
@@ -149,12 +199,17 @@ const page = () => {
                 </ul>
                 <div>
                   <p>
-                    We are seeking a Senior GrapheneOS Security Engineer to architect, deploy, harden, and
-                    maintain sovereign, de-Googled Android security environments built entirely on GrapheneOS.
-                    This role focuses on creating a fully independent, Big Tech–decoupled mobile ecosystem for
-                    sensitive communications, on-device privacy, and operational security — suitable for executives,
-                    high-risk individuals, and organizations facing advanced threat models.The engineer will design a zero-trust, end-to-end secure mobile stack, ensuring the system
-                    operates without Google Play Services, cloud dependencies, or centralized telemetry
+                    We are seeking a Senior GrapheneOS Security Engineer to
+                    architect, deploy, harden, and maintain sovereign,
+                    de-Googled Android security environments built entirely on
+                    GrapheneOS. This role focuses on creating a fully
+                    independent, Big Tech–decoupled mobile ecosystem for
+                    sensitive communications, on-device privacy, and operational
+                    security — suitable for executives, high-risk individuals,
+                    and organizations facing advanced threat models.The engineer
+                    will design a zero-trust, end-to-end secure mobile stack,
+                    ensuring the system operates without Google Play Services,
+                    cloud dependencies, or centralized telemetry
                   </p>
                 </div>
                 <div className="job-footer">
@@ -177,11 +232,16 @@ const page = () => {
                 </ul>
                 <div>
                   <p>
-                    We are looking for an exceptional iOS Security Engineer with deep expertise in hardened iOS
-                    builds, secure OS customization, and advanced mobile threat defence. You will help
-                    design, build, and maintain a military-grade iOS security stack, ensuring device integrity,
-                    resilience, and resistance against adversarial threats in high-risk environments.This is a highly technical role requiring strong OS-level understanding, reverse engineering
-                    skills, and hands-on experience in securing iOS beyond standard enterprise MDM controls.
+                    We are looking for an exceptional iOS Security Engineer with
+                    deep expertise in hardened iOS builds, secure OS
+                    customization, and advanced mobile threat defence. You will
+                    help design, build, and maintain a military-grade iOS
+                    security stack, ensuring device integrity, resilience, and
+                    resistance against adversarial threats in high-risk
+                    environments.This is a highly technical role requiring
+                    strong OS-level understanding, reverse engineering skills,
+                    and hands-on experience in securing iOS beyond standard
+                    enterprise MDM controls.
                   </p>
                 </div>
                 <div className="job-footer">
@@ -204,11 +264,14 @@ const page = () => {
                 </ul>
                 <div>
                   <p>
-                    Elile builds mission-critical AI systems for national security and energy operations. Our
-                    engineering challenges sit at the intersection of AI, distributed systems and data
-                    pipelines.We are looking for a hands-on Technical Lead who can lead by example the design and
-                    engineering execution, working closely with product and domain experts to ship
-                    systems that must be reliable, secure, and performant at scale.
+                    Elile builds mission-critical AI systems for national
+                    security and energy operations. Our engineering challenges
+                    sit at the intersection of AI, distributed systems and data
+                    pipelines.We are looking for a hands-on Technical Lead who
+                    can lead by example the design and engineering execution,
+                    working closely with product and domain experts to ship
+                    systems that must be reliable, secure, and performant at
+                    scale.
                   </p>
                 </div>
                 <div className="job-footer">
@@ -231,11 +294,21 @@ const page = () => {
                 </ul>
                 <div>
                   <p>
-                    We are seeking an experienced Senior Infrastructure Engineer to lead the design, deployment, and maintenance of our on-premises Kubernetes-based data center infrastructure. This is a hands-on role encompassing physical hardware, virtualization, and cluster administration. You will ensure high availability, performance, and scalability while enabling secure and efficient workloads for both developers and operations.
+                    We are seeking an experienced Senior Infrastructure Engineer
+                    to lead the design, deployment, and maintenance of our
+                    on-premises Kubernetes-based data center infrastructure.
+                    This is a hands-on role encompassing physical hardware,
+                    virtualization, and cluster administration. You will ensure
+                    high availability, performance, and scalability while
+                    enabling secure and efficient workloads for both developers
+                    and operations.
                   </p>
                 </div>
                 <div className="job-footer">
-                  <Link className="default-btn" href="/senior-infrastructure-engineer">
+                  <Link
+                    className="default-btn"
+                    href="/senior-infrastructure-engineer"
+                  >
                     Read More
                   </Link>
                 </div>
@@ -253,11 +326,23 @@ const page = () => {
                   </li>
                 </ul>
                 <div>
-                  <p> We are hiring a DevOps / Platform Engineer to build and support internal developer platforms running on our Kubernetes-based on-prem infrastructure. You’ll own CI/CD pipelines, infrastructure-as-code automation, and GitOps workflows to accelerate development and deployment velocity. This role ensures our development teams can build, ship, and scale with minimal friction in a secure and resilient environment.
+                  <p>
+                    {" "}
+                    We are hiring a DevOps / Platform Engineer to build and
+                    support internal developer platforms running on our
+                    Kubernetes-based on-prem infrastructure. You’ll own CI/CD
+                    pipelines, infrastructure-as-code automation, and GitOps
+                    workflows to accelerate development and deployment velocity.
+                    This role ensures our development teams can build, ship, and
+                    scale with minimal friction in a secure and resilient
+                    environment.
                   </p>
                 </div>
                 <div className="job-footer">
-                  <Link className="default-btn" href="/devops-platform-engineer">
+                  <Link
+                    className="default-btn"
+                    href="/devops-platform-engineer"
+                  >
                     Read More
                   </Link>
                 </div>
@@ -276,11 +361,12 @@ const page = () => {
                 </ul>
                 <div>
                   <p>
-                    We're building AI-native applications that transform messy, real-world data into
-                    actionable intelligence. You'll work on cutting-edge AI agents, production systems, and
-                    applications that directly impact critical decision-making.
-                    This is a builder's role - we need someone who ships fast, learns faster, and thrives with
-                    minimal supervision.
+                    We're building AI-native applications that transform messy,
+                    real-world data into actionable intelligence. You'll work on
+                    cutting-edge AI agents, production systems, and applications
+                    that directly impact critical decision-making. This is a
+                    builder's role - we need someone who ships fast, learns
+                    faster, and thrives with minimal supervision.
                   </p>
                 </div>
                 <div className="job-footer">
