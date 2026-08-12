@@ -22,11 +22,11 @@ const page = () => {
                                     className="woocommerce-breadcrumb"
                                     aria-label="Breadcrumb"
                                 >
-                                    <Link href="/">Home</Link> / principal-engineer-complex-systems-architecture
+                                    <Link href="/">Home</Link> / financial-controller
                                 </nav>
 
                                 <h1 className="breadcumb-title">
-                                    Principal Engineer — Complex Systems Architecture
+                                    Financial Controller
                                 </h1>
                             </div>
                         </div>
@@ -252,6 +252,14 @@ const page = () => {
                                     <li>A lean, high-calibre team environment where your contribution is recognised</li>
                                     <li>Applications are treated with strict confidentiality. Only shortlisted candidates will be contacted.</li>
                                 </ul>
+                            </div>
+                            <div className="job-footer mt-4">
+                                <Link
+                                    className="default-btn"
+                                    href="mailto:people@elile.ai"
+                                >
+                                    Apply Now
+                                </Link>
                             </div>
                         </div>
                     </div>

@@ -37,10 +37,10 @@ const page = () => {
           <div className="row">
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
-                <h5>PRODUCT & UI/UX DESIGNER</h5>
+                <h5>Product & UI/UX Designer</h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
-                    <FaLocationDot /> On-Site | Abu Dhabi, UAE | Full-Time
+                    <FaLocationDot /> On-Site | Abu Dhabi, UAE
                   </li>
                   <li>
                     <TbBriefcaseFilled /> 3+ years or Portfolio-led
@@ -65,13 +65,13 @@ const page = () => {
             </div>
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
-                <h5>EXECUTIVE ASSISTANT / OFFICE ADMINISTRATOR</h5>
+                <h5>Executive Assistant / Office Administrator</h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
-                    <FaLocationDot /> On-Site | Abu Dhabi, UAE | Full-Time
+                    <FaLocationDot /> On-Site | Abu Dhabi, UAE
                   </li>
                   <li>
-                    <TbBriefcaseFilled /> Minimum 3–5 years in Abu Dhabi in a similar EA or office admin role
+                    <TbBriefcaseFilled /> Minimum 3–5 years
                   </li>
                 </ul>
                 <div className="jobsDesc">
@@ -93,13 +93,13 @@ const page = () => {
             </div>
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
-                <h5>FINANCIAL CONTROLLER</h5>
+                <h5>Financial Controller</h5>
                 <ul className="job-header-info list-unstyled">
                   <li>
-                    <FaLocationDot /> On-Site | Abu Dhabi, UAE | Full-Time
+                    <FaLocationDot /> On-Site | Abu Dhabi, UAE
                   </li>
                   <li>
-                    <TbBriefcaseFilled /> 4–5 years in accounting, finance, or financial control, UAE experience required
+                    <TbBriefcaseFilled /> 4–5 years
                   </li>
                 </ul>
                 <div className="jobsDesc">

@@ -22,11 +22,11 @@ const page = () => {
                                     className="woocommerce-breadcrumb"
                                     aria-label="Breadcrumb"
                                 >
-                                    <Link href="/">Home</Link> / principal-engineer-complex-systems-architecture
+                                    <Link href="/">Home</Link> / product-ui-ux-designer
                                 </nav>
 
                                 <h1 className="breadcumb-title">
-                                    Principal Engineer — Complex Systems Architecture
+                                    Product & UI/UX Designer
                                 </h1>
                             </div>
                         </div>
@@ -270,6 +270,15 @@ const page = () => {
                                     <li>Medical insurance, annual leave, and full benefits as per UAE Labour Law</li>
                                     <li>Applications without a portfolio will not be reviewed. | Only shortlisted candidates will be contacted.</li>
                                 </ul>
+                            </div>
+
+                            <div className="job-footer mt-4">
+                                <Link
+                                    className="default-btn"
+                                    href="mailto:people@elile.ai"
+                                >
+                                    Apply Now
+                                </Link>
                             </div>
                         </div>
                     </div>
