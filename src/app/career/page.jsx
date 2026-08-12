@@ -37,6 +37,91 @@ const page = () => {
           <div className="row">
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
+                <h5>PRODUCT & UI/UX DESIGNER</h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> On-Site | Abu Dhabi, UAE | Full-Time
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 3+ years or Portfolio-led
+                  </li>
+                </ul>
+                <div className="jobsDesc">
+                  <p>
+                    We are not looking for someone who executes briefs. We want someone who
+                    interrogates them. This is a senior individual contributor role that
+                    sits at the heart of Elile's product and brand experience. You will own
+                    the design function end-to-end — from product UI/UX across our
+                    enterprise applications, to our corporate and marketing web presence,
+                    to digital assets and campaign materials.
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link className="default-btn" href="/product-ui-ux-designer">
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
+                <h5>EXECUTIVE ASSISTANT / OFFICE ADMINISTRATOR</h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> On-Site | Abu Dhabi, UAE | Full-Time
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> Minimum 3–5 years in Abu Dhabi in a similar EA or office admin role
+                  </li>
+                </ul>
+                <div className="jobsDesc">
+                  <p>
+                    We are looking for a polished and proactive Executive Assistant /
+                    Office Administrator to be the operational backbone of our Abu Dhabi
+                    headquarters. This is a hands-on, dual-function role - part executive
+                    support, part office management, and the right person will be equally
+                    comfortable coordinating a leadership meeting and handling a
+                    government visa application.
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link className="default-btn" href="/executive-assistant-office-administrator">
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
+                <h5>FINANCIAL CONTROLLER</h5>
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> On-Site | Abu Dhabi, UAE | Full-Time
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 4–5 years in accounting, finance, or financial control, UAE experience required
+                  </li>
+                </ul>
+                <div className="jobsDesc">
+                  <p>
+                    We are looking for a capable and hands-on Financial Controller -
+                    someone early in their career but already technically strong,
+                    detail-obsessed, and ready to own the full finance and accounting
+                    function for a multi-entity technology company. This is a broad and
+                    meaningful role. You will handle everything from day-to-day bookkeeping
+                    and month-end close to regulatory compliance, payroll, and liaison with
+                    our external tax advisors.
+                  </p>
+                </div>
+                <div className="job-footer">
+                  <Link className="default-btn" href="/financial-controller">
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
                 <h5>Principal Engineer — Complex Systems Architecture</h5>
 
                 <ul className="job-header-info list-unstyled">
