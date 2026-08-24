@@ -35,6 +35,158 @@ const page = () => {
       <section className="career-sec section-gap">
         <div className="container">
           <div className="row">
+            {/* Systems Engineer / Infrastructure Engineer */}
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
+                <h5>Systems Engineer / Infrastructure Engineer</h5>
+
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Remote / Global
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 4–7 years
+                  </li>
+                </ul>
+
+                <div className="jobsDesc">
+                  <p>
+                    We build and operate a large-scale, air-gapped, on-premises intelligence
+                    platform deployed into enterprise and government data centers. Our
+                    infrastructure spans Kubernetes clusters on bare-metal Dell PowerEdge
+                    servers, NVIDIA GPU nodes (H100/H200 SXM), distributed object storage,
+                    and a multi-zone network architecture with strict air-gap requirements.
+                    You will own the full infrastructure lifecycle — from initial rack-and-stack
+                    to observability, security hardening, and GitOps-driven continuous deployment.
+                  </p>
+                </div>
+
+                <div className="job-footer">
+                  <Link
+                    className="default-btn"
+                    href="/systems-engineer-infrastructure-engineer"
+                  >
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+
+
+            {/* Frontend / Full Stack Engineer */}
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
+                <h5>Frontend / Full Stack Engineer</h5>
+
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Remote / Global
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 3–6 years </li>
+                </ul>
+
+                <div className="jobsDesc">
+                  <p>
+                    We are building ID1X — an identity intelligence platform used by
+                    enterprise and government investigators. The frontend is the face of a
+                    highly complex AI system: analysts use it to search identities, review
+                    HITL (Human-in-the-Loop) queues, explore interactive knowledge graphs,
+                    visualize geolocation timelines, and generate structured intelligence
+                    reports. This is not a marketing site — it is a professional
+                    investigative tool that must handle complex data, real-time updates,
+                    and strict access control.
+                  </p>
+                </div>
+
+                <div className="job-footer">
+                  <Link
+                    className="default-btn"
+                    href="/frontend-full-stack-engineer"
+                  >
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+
+
+            {/* Data Center Engineer */}
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
+                <h5>Data Center Engineer</h5>
+
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Remote / Global
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 5–9 years
+                  </li>
+                </ul>
+
+                <div className="jobsDesc">
+                  <p>
+                    We deploy an air-gapped intelligence platform into client-owned data
+                    centers across the GCC and broader region. Our hardware footprint
+                    includes Dell PowerEdge R750xs and R740xd servers, NVIDIA H100/H200 SXM
+                    GPU nodes, Cisco Nexus switching, and 900TB+ of distributed storage —
+                    all operating in strict on-premises, air-gapped environments. You will
+                    own the physical infrastructure layer: rack-and-stack, commissioning,
+                    network configuration, hardware lifecycle, and ongoing site operations.
+                    Travel to client sites in the UAE, Pakistan, and potentially other GCC
+                    countries is a core part of this role.
+                  </p>
+                </div>
+
+                <div className="job-footer">
+                  <Link
+                    className="default-btn"
+                    href="/data-center-engineer"
+                  >
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
+
+
+            {/* Senior Backend / Data Engineer */}
+            <div className="col-lg-6 col-12">
+              <div className="jobs-item">
+                <h5>Senior Backend / Data Engineer</h5>
+
+                <ul className="job-header-info list-unstyled">
+                  <li>
+                    <FaLocationDot /> Remote / Global
+                  </li>
+                  <li>
+                    <TbBriefcaseFilled /> 6+ years
+                  </li>
+                </ul>
+
+                <div className="jobsDesc">
+                  <p>
+                    We are building ID1X — a large-scale identity intelligence platform
+                    that ingests, deduplicates, normalizes, and fuses data from dozens of
+                    OSINT vendors into a unified identity graph. The data pipeline processes
+                    terabytes of structured and unstructured data monthly through a
+                    Medallion architecture (Bronze → Silver → Gold), feeding downstream AI
+                    agents, a knowledge graph (Neo4j), a vector database (PGVector), and a
+                    unified search engine (OpenSearch/M-Mind).
+                  </p>
+                </div>
+
+                <div className="job-footer">
+                  <Link
+                    className="default-btn"
+                    href="/senior-backend-data-engineer"
+                  >
+                    Read More
+                  </Link>
+                </div>
+              </div>
+            </div>
             <div className="col-lg-6 col-12">
               <div className="jobs-item">
                 <h5>Product & UI/UX Designer</h5>
